@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-toyota-gps-domain.example/sitemap.xml
